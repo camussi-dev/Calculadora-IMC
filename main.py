@@ -63,8 +63,6 @@ if st.button("Calcular"):
         # Criar uma linha 
         st.divider()
 
-        st.image("./obesidade.jpg")
-
     else:
         # Mostrar mensagem de erro
         st.error("Por favor, insira os valores válidos para peso e altura")
